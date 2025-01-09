@@ -1,2 +1,2 @@
-# Meetings_Management_System
-Meetings Schedule Management System using Java
+# Meetings Management System
+Simple meeting schedules management system implemented using Java
